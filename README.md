@@ -1,7 +1,7 @@
 # Bot-Wl
 
--- Bot para aprovação direta no banco de dados vrp. 
--- Basta o usuario mandar a mensagem da seguinte forma: ID | NOME
+- Bot para aprovação direta no banco de dados vrp. 
+- Basta o usuario mandar a mensagem da seguinte forma: ID | NOME
  
 * **Instruções:**
  * Digite no terminal "npm install --save" para que as libs sejam carregadas (basta fazer isso apenas uma vez)
