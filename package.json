@@ -1,0 +1,19 @@
+{
+  "name": "botid",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "knex": "^0.95.6",
+    "mysql": "^2.18.1",
+    "nodemon": "^2.0.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon main.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
