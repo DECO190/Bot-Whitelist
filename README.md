@@ -1,4 +1,4 @@
-# Bot-Wl
+# Bot-Whitelist
 
 - Bot para aprovação direta no banco de dados vrp. 
 - Basta o usuario mandar a mensagem da seguinte forma: ID | NOME
