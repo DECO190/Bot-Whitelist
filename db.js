@@ -4,7 +4,7 @@ var knex = require('knex')({
 		host: '127.0.0.1',
      	user : 'root',
       	password : '',
-      	database : 'vrp_test' // nome do banco de dados
+      	database : 'zirix' // nome do banco de dados
     }
 });
 
